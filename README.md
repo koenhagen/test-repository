@@ -1,2 +1,2 @@
 # test-repository
-for testing
+for testing apps
